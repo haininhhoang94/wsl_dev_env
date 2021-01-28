@@ -202,6 +202,7 @@ sudo ssh-keygen -A
 
 [SSH](https://www.hanselman.com/blog/how-to-ssh-into-wsl2-on-windows-10-from-an-external-machine)
 [Disable Policies](https://stackoverflow.com/questions/41117421/ps1-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system)
+[Link](https://www.addictivetips.com/windows-tips/auto-run-powershell-scripts-windows-10/)
 
 14.Add keygen from Windows to Linux:
 ```bash
